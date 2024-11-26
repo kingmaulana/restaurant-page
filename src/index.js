@@ -1,3 +1,3 @@
-import "./style.css"
+import "./style/style.css"
 
-console.log('Hello Odin');
+console.log('Hello Bundling JS');
